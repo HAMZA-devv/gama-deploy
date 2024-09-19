@@ -31,7 +31,7 @@ const ProfileDropdown = () => {
           <IconifyIcon icon="la:lock" className="fs-18 me-1 align-text-bottom" /> Securite
         </DropdownItem>
         <DropdownItem href="/pages/faqs">
-          <IconifyIcon icon="la:question-circle" className="fs-18 me-1 align-text-bottom" /> Centre d'aide
+          <IconifyIcon icon="la:question-circle" className="fs-18 me-1 align-text-bottom" /> {`Centre d&apos;aide`}
         </DropdownItem>
         <DropdownDivider className="mb-0" />
         <DropdownItem className="text-danger" href="/auth/login">

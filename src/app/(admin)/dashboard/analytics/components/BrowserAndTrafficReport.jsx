@@ -9,7 +9,7 @@ const BrowserAndTrafficReport = () => {
           <tr>
             <th className="border-top-0">Nom Client</th>
             <th className="border-top-0">Societe</th>
-            <th className="border-top-0">Nombre d'employés</th>
+            <th className="border-top-0">{`Nombre d&apos;employés`}</th>
             <th className="border-top-0">Ville</th>
           </tr>
         </thead>
