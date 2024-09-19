@@ -41,7 +41,7 @@ const RegisterForm = () => {
           <div className="form-check form-switch form-switch-success">
             <input className="form-check-input" type="checkbox" id="customSwitchSuccess" />
             <label className="form-check-label" htmlFor="customSwitchSuccess">
-              By registering you agree to the Rizz{' '}
+              By registering you agree to the Neuron Q{' '}
               <Link href="" className="text-primary">
                 Terms of Use
               </Link>

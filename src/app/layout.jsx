@@ -14,10 +14,10 @@ const beVietnamPro = Be_Vietnam_Pro({
 });
 export const metadata = {
   title: {
-    template: '%s | Rizz Next - Admin & Dashboard Template',
+    template: '%s | Neuron Q - Admin & Dashboard ',
     default: DEFAULT_PAGE_TITLE
   },
-  description: 'Premium Multipurpose Admin & Dashboard Template'
+  description: 'Premium Multipurpose Admin & Dashboard '
 };
 const splashScreenStyles = `
 #splash-screen {

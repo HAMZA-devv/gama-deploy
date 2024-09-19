@@ -41,7 +41,7 @@ const AllSweetAlerts = withSwal(props => {
             </CardHeader>
             <CardBody className="pt-0">
               <Button variant="primary" size="sm" onClick={() => swal.fire({
-              title: 'Rizz!',
+              title: 'Neuron Q!',
               text: 'Modal with a Brand Logo.',
               imageUrl: logoSm.src,
               imageWidth: 80,
@@ -54,7 +54,7 @@ const AllSweetAlerts = withSwal(props => {
               swal.bindClickHandler();
               swal.mixin({
                 toast: true,
-                title: 'Rizz!',
+                title: 'Neuron Q!',
                 text: 'Toast example',
                 showCancelButton: true
               }).bindClickHandler('data-swal-toast-template');
@@ -261,7 +261,7 @@ const AllSweetAlerts = withSwal(props => {
                       <td className="border-0">A message with a custom image</td>
                       <td className="border-0">
                         <Button variant="primary" size="sm" onClick={() => swal.fire({
-                        title: 'Rizz!',
+                        title: 'Neuron Q!',
                         text: 'Modal with a Brand Logo.',
                         imageUrl: logoSm.src,
                         imageWidth: 80,

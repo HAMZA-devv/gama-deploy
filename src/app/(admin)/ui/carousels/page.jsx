@@ -17,10 +17,10 @@ const BasicCarousel = () => {
             <div className="p-3">
               <span className="bg-pink-subtle p-1 rounded text-pink fw-medium">Basic Examples </span>
               <h1 className="my-4 font-weight-bold">
-                Manage Your Work With <span className="text-primary">Rizz</span>.
+                Manage Your Work With <span className="text-primary">Neuron Q</span>.
               </h1>
               <p className="fs-14 text-muted">
-                Rizz is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
+                Neuron Q is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
                 easy.
               </p>
               <button type="button" className="btn btn-primary">
@@ -66,10 +66,10 @@ const CarouselWithIndicator = () => {
             <div className="p-3">
               <span className="bg-pink-subtle p-1 rounded text-pink fw-medium">Indicators</span>
               <h1 className="my-4 font-weight-bold">
-                Manage Your Work With <span className="text-primary">Rizz</span>.
+                Manage Your Work With <span className="text-primary">Neuron Q</span>.
               </h1>
               <p className="fs-14 text-muted">
-                Rizz is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
+                Neuron Q is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
                 easy.
               </p>
               <button type="button" className="btn btn-primary">
@@ -89,10 +89,10 @@ const CarouselWithCaption = () => {
             <div className="p-3">
               <span className="bg-pink-subtle p-1 rounded text-pink fw-medium">Captions </span>
               <h1 className="my-4 font-weight-bold">
-                Manage Your Work With <span className="text-primary">Rizz</span>.
+                Manage Your Work With <span className="text-primary">Neuron Q</span>.
               </h1>
               <p className="fs-14 text-muted">
-                Rizz is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
+                Neuron Q is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
                 easy.
               </p>
               <button type="button" className="btn btn-primary">
@@ -138,10 +138,10 @@ const CarouselWithCrossFadeEffect = () => {
             <div className="p-3">
               <span className="bg-pink-subtle p-1 rounded text-pink fw-medium">Crossfade</span>
               <h1 className="my-4 font-weight-bold">
-                Manage Your Work With <span className="text-primary">Rizz</span>.
+                Manage Your Work With <span className="text-primary">Neuron Q</span>.
               </h1>
               <p className="fs-14 text-muted">
-                Rizz is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
+                Neuron Q is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
                 easy.
               </p>
               <button type="button" className="btn btn-primary">
@@ -161,10 +161,10 @@ const DarkVariantCarousel = () => {
             <div className="p-3">
               <span className="bg-pink-subtle p-1 rounded text-pink fw-medium">Dark variant </span>
               <h1 className="my-4 font-weight-bold">
-                Manage Your Work With <span className="text-primary">Rizz</span>.
+                Manage Your Work With <span className="text-primary">Neuron Q</span>.
               </h1>
               <p className="fs-14 text-muted">
-                Rizz is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
+                Neuron Q is a Bootstrap 5 admin dashboard, It is fully responsive and included awesome features to help build web applications fast and
                 easy.
               </p>
               <button type="button" className="btn btn-primary">

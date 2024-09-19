@@ -66,7 +66,7 @@ const BillingEmail = () => {
                                     Thanks for using <span style={{
                                     color: '#22c55e',
                                     fontWeight: 700
-                                  }}>Rizz</span>.
+                                  }}>Neuron Q</span>.
                                   </h2>
                                 </td>
                               </tr>
@@ -253,7 +253,7 @@ const BillingEmail = () => {
                                 margin: 0,
                                 padding: '0 0 20px'
                               }} align="center" valign="top">
-                                  Rizz Inc. 123 my street, And my Country
+                                  Neuron Q Inc. 123 my street, And my Country
                                 </td>
                               </tr>
                             </tbody>

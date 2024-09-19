@@ -18,7 +18,7 @@ const BasicToast = () => {
       <Toast show={isOpen} onClose={toggle} role="alert">
         <ToastHeader>
           <Image src={logoSm} height={20} alt="logo" className="me-1" />
-          <h5 className="me-auto my-0">Rizz</h5>
+          <h5 className="me-auto my-0">Neuron Q</h5>
           <small>11 mins ago</small>
         </ToastHeader>
         <ToastBody>Hello, world! This is a toast message.</ToastBody>
@@ -35,7 +35,7 @@ const TranslucentToast = () => {
         <Toast show={isOpen} onClose={toggle} role="alert">
           <ToastHeader>
             <Image src={logoSm} alt="logo-sm" height={20} className="me-1" />
-            <h5 className="me-auto my-0">Rizz</h5>
+            <h5 className="me-auto my-0">Neuron Q</h5>
             <small>11 mins ago</small>
           </ToastHeader>
           <ToastBody>Hello, world! This is a toast message.</ToastBody>
@@ -58,7 +58,7 @@ const StackingToast = () => {
           <Toast show={isOpen} onClose={toggle} role="alert">
             <ToastHeader>
               <Image src={logoSm} alt="logo-sm" height={20} className="me-1" />
-              <h5 className="me-auto my-0">Rizz</h5>
+              <h5 className="me-auto my-0">Neuron Q</h5>
               <small>11 mins ago</small>
             </ToastHeader>
             <ToastBody>Hello, world! This is a toast message.</ToastBody>
@@ -66,7 +66,7 @@ const StackingToast = () => {
           <Toast show={toastOpen} onClose={toastToggle} role="alert">
             <ToastHeader>
               <Image src={logoSm} alt="logo-sm" height={20} className="me-1" />
-              <h5 className="me-auto my-0">Rizz</h5>
+              <h5 className="me-auto my-0">Neuron Q</h5>
               <small>11 mins ago</small>
             </ToastHeader>
             <ToastBody>Hello, world! This is a toast message.</ToastBody>
@@ -145,7 +145,7 @@ const ToastPlacements = () => {
           <Toast show={isOpen} onClose={toggle}>
             <ToastHeader>
               <Image src={logoSm} alt="logo-sm" height={20} className="me-1" />
-              <h5 className="me-auto my-0">Rizz</h5>
+              <h5 className="me-auto my-0">Neuron Q</h5>
               <small>11 mins ago</small>
             </ToastHeader>
             <ToastBody>Hello, world! This is a toast message.</ToastBody>

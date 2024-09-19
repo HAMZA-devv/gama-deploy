@@ -115,7 +115,7 @@ const BasicActionEmail = () => {
                                 margin: 0,
                                 padding: '0 0 10px'
                               }} valign="top">
-                                  WelCome To Rizz
+                                  WelCome To Neuron Q
                                 </td>
                               </tr>
                               <tr style={{
@@ -200,7 +200,7 @@ const BasicActionEmail = () => {
                                 margin: 0,
                                 textAlign: 'right'
                               }} valign="top">
-                                  — <b>Rizz</b> - Admin Dashboard
+                                  — <b>Neuron Q</b> - Admin Dashboard
                                 </td>
                               </tr>
                             </tbody>

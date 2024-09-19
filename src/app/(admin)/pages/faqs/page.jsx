@@ -12,7 +12,7 @@ const QuestionWithAccordion = () => {
       <Accordion defaultActiveKey={'1'} id="accordionExample-faq">
         <AccordionItem eventKey="1">
           <AccordionHeader as="h5" className="m-0" id="headingOne">
-            What is Rizz?
+            What is Neuron Q?
           </AccordionHeader>
           <AccordionBody>
             <strong>This is the first item&apos;s accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate
@@ -23,7 +23,7 @@ const QuestionWithAccordion = () => {
         </AccordionItem>
         <AccordionItem eventKey="2">
           <AccordionHeader as="h5" className="m-0" id="headingTwo">
-            How buy Rizz on coin?
+            How buy Neuron Q on coin?
           </AccordionHeader>
           <AccordionBody>
             <strong>This is the second item&apos;s accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate
@@ -34,7 +34,7 @@ const QuestionWithAccordion = () => {
         </AccordionItem>
         <AccordionItem eventKey="3">
           <AccordionHeader as="h5" className="m-0" id="headingThree">
-            What cryptocurrency can i use to buy Rizz?
+            What cryptocurrency can i use to buy Neuron Q?
           </AccordionHeader>
           <AccordionBody>
             <strong>This is the third item&apos;s accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate

@@ -76,7 +76,7 @@ const Card4 = () => {
           Some quick example text to build on the card title and make up the bulk of the card&apos;s content.
         </CardText>
       </CardBody>
-      <p className="card-footer bg-light-alt m-0">Footer - 2024 Rizz</p>
+      <p className="card-footer bg-light-alt m-0">Footer - 2024 Neuron Q</p>
     </Card>;
 };
 const Card5 = () => {

@@ -211,7 +211,7 @@ const Typography = () => {
                 <CardBody>
                   <span className="float-end text-muted fw-normal">Normal / 400</span>
                   <h1 className="display-4 fw-normal mt-0 mb-4">Aa</h1>
-                  <h5 className="mb-0 fw-normal">Rizz</h5>
+                  <h5 className="mb-0 fw-normal">Neuron Q</h5>
                 </CardBody>
               </Card>
             </Col>
@@ -220,7 +220,7 @@ const Typography = () => {
                 <CardBody>
                   <span className="float-end text-muted fw-bold">Bold / 700</span>
                   <h1 className="display-4 fw-bold mt-0 mb-4">Aa</h1>
-                  <h5 className="mb-0 fw-bold">Rizz</h5>
+                  <h5 className="mb-0 fw-bold">Neuron Q</h5>
                 </CardBody>
               </Card>
             </Col>

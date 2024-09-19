@@ -16,7 +16,7 @@ const Error505 = () => {
               <Image src={logoSmImg} height={50} alt="logo" className="auth-logo" />
             </Link>
             <h4 className="mt-3 mb-1 fw-semibold text-white fs-18">Sorry! Unexpected Server Error</h4>
-            <p className="text-muted fw-medium mb-0">Back to dashboard of Rizz</p>
+            <p className="text-muted fw-medium mb-0">Back to dashboard of Neuron Q</p>
           </div>
         </CardBody>
         <CardBody className="pt-0">

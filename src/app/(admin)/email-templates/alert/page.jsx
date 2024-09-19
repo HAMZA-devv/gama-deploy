@@ -113,7 +113,7 @@ const AlertEmail = () => {
                                 fontSize: 14,
                                 textAlign: 'center'
                               }} valign="top">
-                                  Thanks for choosing <b>Rizz</b> Admin.
+                                  Thanks for choosing <b>Neuron Q</b> Admin.
                                 </td>
                               </tr>
                             </tbody>

@@ -8,7 +8,7 @@ import { Button, Col, Row } from 'react-bootstrap';
 import { toast } from 'sonner';
 const ClipboardExample = () => {
   const inputRef = useRef(null);
-  const [inputText, setText] = useState('Welcome to Rizz!');
+  const [inputText, setText] = useState('Welcome !');
   const [, copy] = useClipboard();
   const onCopy = text => {
     copy(text).then(copied => {
@@ -47,7 +47,7 @@ const ClipboardExample = () => {
 };
 const TextAreaClipboard = () => {
   const inputRef = useRef(null);
-  const [inputText, setText] = useState('Welcome to Rizz !');
+  const [inputText, setText] = useState('Welcome to Neuron Q !');
   const [, copy] = useClipboard();
   const onCopy = text => {
     copy(text).then(copied => {

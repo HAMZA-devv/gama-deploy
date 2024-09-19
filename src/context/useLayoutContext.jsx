@@ -25,7 +25,7 @@ const LayoutProvider = ({
       size: queryParams['menu_size'] ? queryParams['menu_size'] : 'default'
     }
   };
-  const [settings, setSettings] = useLocalStorage('__RIZZ_NEXT_CONFIG__', INIT_STATE, override);
+  const [settings, setSettings] = useLocalStorage('__Neuron Q_NEXT_CONFIG__', INIT_STATE, override);
 
   // update settings
   const updateSettings = _newSettings => setSettings({
